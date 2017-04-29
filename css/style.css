@@ -1,0 +1,39 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+
+h1 {
+  font-weight: 100;
+  font-size: 3.5em;
+  color: #2d3c49;
+}
+
+h2 {
+  color: #7d97ad;
+}
+
+h3 {
+  font-size: 1.5em;
+  color: #2d3c49;
+}
+
+h4 {
+  font-size: 1em;
+  color: #2d3c49;
+}
+
+p {
+  font-size: .5em;
+  color: #2d3c49;
+}
+
+.hr-rule {
+    border-bottom: 1px solid black;
+    margin-bottom: 15px;
+    padding-top: : 15px;
+}
+
+.logo {
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
